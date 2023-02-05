@@ -1,4 +1,4 @@
-# e_ecommerce_user_app
+# e_commerce_user_app
 
 A new Flutter setup application for starting a project.
 
