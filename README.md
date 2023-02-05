@@ -1,4 +1,4 @@
-# flutter_sixvalley_ecommerce
+# e_ecommerce_user_app
 
 A new Flutter setup application for starting a project.
 
